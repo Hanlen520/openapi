@@ -1,0 +1,8 @@
+common:
+  openid: "8956884185640496350"
+  appkey: "A85yRFPsUTCtwW5ESU"
+  msg_id: "ADDorg123456"
+  baseurl: "http://172.31.3.231:6020/api/store/v1/queryStore/"
+payload:
+  - data: "{'after_create_date': '2017-11-05 00:00:00','store_type':'餐饮'}"
+
